@@ -1,0 +1,8 @@
+});
+{
+  "name": "masyka-desktop",
+  "version": "1.0.16",
+  "description": "Маська — мессенджер для Windows",
+  "main": "main.js",
+  "author": "ИП Иванкова В.С.",
+  "license": "UNLICENSE
