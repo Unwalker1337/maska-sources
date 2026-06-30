@@ -1,0 +1,25 @@
+{
+  "name": "Маська",
+  "short_name": "Маська",
+  "description": "Мессенджер Маська",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#1a1a2e",
+  "theme_color": "#6c5ce7",
+  "lang": "ru",
+  "icons": [
+    {
+      "src": "/ava.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/ava.ico",
+      "sizes": "256x256",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["social", "communication"]
+}
